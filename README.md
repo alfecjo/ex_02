@@ -21,14 +21,10 @@ entanto deverá, por meio de um objeto do tipo Veiculo, instanciar os atributos
 do objeto atributo motor, contido na classe Veiculo, que é do tipo Motor.
 #### ⚡d. Perceba que a classe Veículo POSSUI um atributo do tipo Motor.
 
-- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+- https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/103886679/211107225-711af289-5b9e-4a06-8236-e4dec8049afe.png)
