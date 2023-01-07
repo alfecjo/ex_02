@@ -14,7 +14,7 @@ forem de tipo literais (char, String e etc).
 #### ⚡
 b. A classe “Teste” deve ser construída de forma a testar todas as funcionalidades
 do programa. Nesta deverão ser implementadas as entradas de dados e a
-impressão destes na tela. Por meio dela deverá ser possível instanciar 5
+impressão destes na tela `POR MEIO DE (.toString)`. Deverá ser possível instanciar 5
 veículos.
 #### ⚡
 c. Perceba que, de acordo com as associações descritas no diagrama de classes e
